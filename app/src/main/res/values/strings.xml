@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ec3LMP</string>
+    <string name="MAPS_API_KEY" translatable="false">AIzaSyDB42Y5-GxKBBP_1b9UPUhbAWLyGUkPASY</string>
+</resources>
